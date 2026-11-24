@@ -19,7 +19,7 @@ recomendaciones.
 
 ## Dashboard publicado
 
-👉 **PEGAR_AQUI_URL_STREAMLIT**
+https://dashboard-sismos-9hlkyxypoeqwqsp5qtnstq.streamlit.app/
 
 ## Captura de pantalla
 
