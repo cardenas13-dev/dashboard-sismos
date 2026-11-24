@@ -23,7 +23,7 @@ recomendaciones.
 
 ## Captura de pantalla
 
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/128fd304-73ba-47d8-afd6-b9276b40295e" />
 
 ## Hallazgos principales del EDA
 
