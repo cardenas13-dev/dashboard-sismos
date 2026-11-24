@@ -23,7 +23,8 @@ https://dashboard-sismos-9hlkyxypoeqwqsp5qtnstq.streamlit.app/
 
 ## Captura de pantalla
 
-![Captura del dashboard](captura_dashboard.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2d93fd18-4292-49ad-8c0a-623a19b7c6ba" />
+
 
 ## Hallazgos principales del EDA
 
