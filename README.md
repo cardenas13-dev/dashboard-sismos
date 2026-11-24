@@ -19,11 +19,12 @@ recomendaciones.
 
 ## Dashboard publicado
 
-👉 **https://dashboard-sismos-9hlkyxypoeqwqsp5qtnstq.streamlit.app/**
+https://dashboard-sismos-9hlkyxypoeqwqsp5qtnstq.streamlit.app/
 
 ## Captura de pantalla
 
-![Captura del dashboard](captura_dashboard.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f8f94989-c40e-426a-a203-1f91bac2f8c7" />
+
 
 ## Hallazgos principales del EDA
 
