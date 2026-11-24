@@ -23,7 +23,7 @@ recomendaciones.
 
 ## Captura de pantalla
 
-![Captura del dashboard](captura_dashboard.png)
+
 
 ## Hallazgos principales del EDA
 
